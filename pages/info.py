@@ -5,9 +5,9 @@ import streamlit as st
 st.title("Info Tentang IMT")
 
 # Deskripsi singkat tentang website
-st.markdown("""1. Apa itu Indeks Massa Tubuh? 
+st.markdown("""Apa itu Indeks Massa Tubuh? 
 Indeks Massa Tubuh (IMT) atau Body Mass Index (BMI) adalah sebuah indikator yang digunakan untuk mengukur proporsi berat badan seseorang terhadap tinggi badannya. 
-2. Lalu mengapa kita harus mengecek Indeks Massa Tubuh?
+Lalu mengapa kita harus mengecek Indeks Massa Tubuh?
 Memeriksa Indeks Massa Tubuh (IMT) penting karena beberapa alasan terkait kesehatan dan pencegahan penyakit. Berikut adalah beberapa alasan utama mengapa Anda harus memeriksa IMT Anda:
 
 1. Menilai Kesehatan Berat Badan
