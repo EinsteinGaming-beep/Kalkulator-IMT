@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🩸"
 )
 st.title("Selamat Datang di Kalkulator Indeks Massa Tubuh")
-st.header("Website ini membantu Anda menghitung Indeks Massa Tubuh (IMT) dan memahami maknanya. IMT adalah alat sederhana untuk menentukan apakah seseorang memiliki berat badan yang sehat, kekurangan berat badan, kelebihan berat badan, atau obesitas.")
+st.text("Website ini membantu Anda menghitung Indeks Massa Tubuh (IMT) dan memahami maknanya. IMT adalah alat sederhana untuk menentukan apakah seseorang memiliki berat badan yang sehat, kekurangan berat badan, kelebihan berat badan, atau obesitas.")
 
 st.image("beranda.png", use_column_width=True)
 st.sidebar.write("Anda berada di Beranda")
