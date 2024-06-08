@@ -3,7 +3,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Weather Prediction",
+    page_title="Kalkulator IMT",
     page_icon="🩸"
 )
 st.title("Selamat Datang di Kalkulator Indeks Massa Tubuh")
