@@ -12,6 +12,7 @@ st.write("Website ini membantu Anda menghitung Indeks Massa Tubuh (IMT) dan mema
 st.markdown("""Kategori IMT
 
 Berdasarkan nilai IMT, seseorang dapat dikategorikan ke dalam kelompok-kelompok berikut:
+
 0 = Kurus Tingkat Berat < 17
 1 = Kurus Tingkat Ringan 17 - 18,5
 2 = Normal 18,5 - 25
