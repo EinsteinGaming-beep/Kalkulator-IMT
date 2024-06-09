@@ -13,8 +13,8 @@ st.markdown("""Kategori IMT
 
 Berdasarkan nilai IMT, seseorang dapat dikategorikan ke dalam kelompok-kelompok berikut:
 
-0 = Kurus Tingkat Berat < 17
-1 = Kurus Tingkat Ringan 17 - 18,5
-2 = Normal 18,5 - 25
-3 = Gemuk Tingkat Ringan 25 - 30
-4 = Obesitas > 30""")
+- 0 = Kurus Tingkat Berat < 17
+- 1 = Kurus Tingkat Ringan 17 - 18,5
+- 2 = Normal 18,5 - 25
+- 3 = Gemuk Tingkat Ringan 25 - 30
+- 4 = Obesitas > 30""")
