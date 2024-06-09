@@ -12,9 +12,8 @@ st.write("Website ini membantu Anda menghitung Indeks Massa Tubuh (IMT) dan mema
 st.markdown("""Kategori IMT
 
 Berdasarkan nilai IMT, seseorang dapat dikategorikan ke dalam kelompok-kelompok berikut:
-- Kurus (Kekurangan Berat Badan): IMT < 18,5
-- Normal (Berat Badan Ideal): IMT 18,5 - 24,9
-- Kelebihan Berat Badan: IMT 25 - 29,9
-- Obesitas Tingkat 1: IMT 30 - 34,9
-- Obesitas Tingkat 2: IMT 35 - 39,9
-- Obesitas Tingkat 3 (Obesitas Morbid): IMT ≥ 40""")
+0 = Kurus Tingkat Berat < 17
+1 = Kurus Tingkat Ringan 17 - 18,5
+2 = Normal 18,5 - 25
+3 = Gemuk Tingkat Ringan 25 - 30
+4 = Obesitas > 30""")
